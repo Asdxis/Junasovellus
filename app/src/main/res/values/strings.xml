@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VolleyJson</string>
+    <string name="getButton">Hae</string>
+    <string name="addTrain">Junan numero</string>
+    <string name="setDate">Valitse päivämäärä</string>
+    <string name="addStation">Aseman nimi</string>
+    <string name="stationClick">Asemat</string>
+</resources>

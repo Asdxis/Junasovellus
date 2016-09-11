@@ -1,0 +1,74 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:background="#66A1D8"
+            tools:context=".StationSchedule">
+
+            <AutoCompleteTextView
+                android:id="@+id/stationName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:singleLine="true"
+                android:imeOptions="actionDone"
+                android:hint="@string/addStation">
+            </AutoCompleteTextView>
+
+            <Button
+                android:id="@+id/getStationInfo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:layout_marginBottom="10dp"
+                android:backgroundTint="#439CF0"
+                android:onClick="getStationInfo"
+                android:text="@string/getButton" />
+            <TextView
+                android:id="@+id/txtArrivals"
+                android:layout_width="fill_parent"
+                android:layout_alignRight="@+id/fakeView"
+                android:layout_alignParentLeft="true"
+                android:layout_height="fill_parent"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="20dp"
+                android:background="#FFFFFF"
+                android:textSize="15sp"
+                android:layout_below="@+id/getStationInfo"/>
+            <View android:id="@+id/fakeView"
+                android:layout_width="2dp"
+                android:layout_height="0dp"
+                android:background="#66A1D8"
+                android:layout_centerInParent="true"/>
+            <TextView
+                android:id="@+id/txtDepartures"
+                android:layout_width="fill_parent"
+                android:layout_alignLeft="@id/fakeView"
+                android:layout_alignParentRight="true"
+                android:layout_height="fill_parent"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="20dp"
+                android:background="#FFFFFF"
+                android:textSize="15sp"
+                android:layout_below="@id/getStationInfo"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

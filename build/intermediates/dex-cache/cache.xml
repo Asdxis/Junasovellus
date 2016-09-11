@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_c4e5d81484c3c0414384e921e316fda1e593ae82/classes.dex" />
+    </item>
+    <item
+        jar="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="944dee223874288b68cc0a7ea9ea289ee55c1736">
+        <dex dex="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_491ffa8c57f02089f62b5f1a14f9a14179a6f9dc/classes.dex" />
+    </item>
+    <item
+        jar="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b92250d9a866a2e210835fa4e4432e628f6ebeb3/classes.dex" />
+    </item>
+    <item
+        jar="/home/asdxis/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_0d3bfd2b622528d1c734b67110ba5903dca11f1c/classes.dex" />
+    </item>
+    <item
+        jar="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_e6108baf8a855ba30657f176b4ae92cef8a7a20c/classes.dex" />
+    </item>
+    <item
+        jar="/home/asdxis/AndroidStudioProjects/VolleyJson/app/libs/volley.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_79233948e3151fea2e17ee66240027385e0c134d/classes.dex" />
+    </item>
+    <item
+        jar="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_3a9ffc3e7f846fb8a65979179e2b9cd792688ad7/classes.dex" />
+    </item>
+    <item
+        jar="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="30916ab66f2a0176307a15cbbd2300e5e10bc0ae">
+        <dex dex="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_64c623c023c9b07ca973c84be6e02f60e867710d/classes.dex" />
+    </item>
+    <item
+        jar="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/asdxis/AndroidStudioProjects/VolleyJson/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_8c1437261927d887f17791e2e7a2beaa59f15dab/classes.dex" />
+    </item>
+
+</items>
