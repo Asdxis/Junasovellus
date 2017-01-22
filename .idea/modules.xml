@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VolleyJson.iml" filepath="$PROJECT_DIR$/VolleyJson.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Junasovellus.iml" filepath="$PROJECT_DIR$/Junasovellus.iml" />
     </modules>
   </component>
 </project>
